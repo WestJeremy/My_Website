@@ -12,12 +12,40 @@ My masters thesis was creating a robot application using ROS2 and ROS2 control f
 ### Micro-Mouse
 
 
-### Spiral Alignment Proof of Concept
+
+### S.L.A.P. X-ray Spectroscopy Alignment
+
+![[Pasted image 20250804175354.png]]
+
+For my senior project we were tasked with building a proof of concept test stand for x-ray spectroscopy for the Stanford Linear partial Accelerator Center (SLAC). Our task was to use two 6-axis robotic arms to position spherically ground crystals for the x-ray spectroscopy process. 
+
+Our stand had to reflect and focus the beam on to a 1 mm detector, across a distance of 1 meter. The arms and detector then would sweep through a series of positions and would need to remain synced. I wrote the Spiral Linear Alignment Procedure (SLAP) using OOP and multi-threading for the alignment of the robotic arms. The arms first moved into their theoretical perfect position, then spiraled outward while light intensity was recorded by the detector. Once a peak was found, the system moved from the center of the spiral to the peak intensity point until a new peak intensity was found. 
+
+The system was completely wireless with the admin laptop, robotic arms, and esp8266 connected to a router. The laptop ran RoboDK with a python application interfacing with the arms and webserver hosted by the esp8266. The 8266 connected to the photo detector and stepper motor and would move the motor and relay light intensity and motor position upon http methods utilizing json. 
+![[20230413_184722.jpg]]
+Robots with crystals installed.
+
+![[20230410_205725.jpg]]
+Alignment of the beam on the move-able detector with a humidifier to show the light beam.
+#### Spiral Alignment Proof of Concept
 ![[Pasted image 20250804151928.png]]
+The SLAP was first theorized and tested using MATLAB simulations.
 ## Interesting Bugs: Sparse Sampling on a Dense Spiral
+An interesting bug arose when doing a sparse linspace on a comparatively dense spiral.
 ![[Pasted image 20250804151933.png]]
 
-![[Pasted image 20250804151937.png]]
+
+
+## Modal Analysis on 3D printed parts
+
+
+
+My undergrad research project was attempting to identify defects commonly found in 3D printed metal parts using modal analysis. Me and my partner started undergraduate research back up at Chico State with this project. We were told that we were the first paper in at least 20 years to come out of the Chico State ME department, and they couldn't give us the exact number because the records did not got further.
+
+Our paper [Investigations on Natural Frequency Shifts of a Cantilever Beam With a Spherical Void Defect](https://asmedigitalcollection.asme.org/ssdm/proceedings-abstract/SSDM2023/87141/V001T03A002/1169180) attempted to model the effects of a point void in a homogeneous beam using Euler Bernoulli Beam theory and was presented at in 2023 and published to ASME Aerospace Structures, Structural Dynamics, and Materials Conference. 
+
+![[20230224_170049.jpg]]
+
 
 
 ### Adjustable Coffee Grinder: Machine Design Final
