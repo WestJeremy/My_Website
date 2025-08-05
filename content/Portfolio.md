@@ -1,19 +1,30 @@
-## Academic
-
-
+# Academic Work
 
 ### CAL Poly Switch
+**2023-2025**
 
-My masters thesis was creating a robot application using ROS2 and ROS2 control for a custom robot quadruped, the Cal Poly Switch. 
+My masters thesis was creating a robot application using ROS2 and ROS2 control for a custom robot quadruped, the Cal Poly Switch. Developing Switch took place on all levels of the stack from machining aluminum stiffeners for the frame to integrating a digital twin with Foxglove interfacing with ROS2.
 
 
 ![[1000009137.jpg]]
+Switch internals with Jetson, power distribution, battery, and motors. 
 
+![[BasicIMU_Foxglove.png]]
+Foxglove interface with sensor readouts and digital twin.
+
+### Planerizer
+**2023-2024**
+
+On arriving at Cal Poly I assisted with the redesign, and manufacturing of a leg test stand for my now dear friend John Bennett's thesis. Our running joke was senior projects get $5000 and a year, and as masters students we got $500 and 3 months. 
+
+The planerizer redesign was a resounding success, with minimal backlash and deflection through the use of compression joints, and a thin wall aluminum rectangular tubing. The new design was machined and assembled in time for [John's masters thesis testing](https://digitalcommons.calpoly.edu/theses/2891/). 
+![[planerizer.png]]
 ### Micro-Mouse
-
-
+2023-2023
+For my ME507 robotics design class project, myself and my partner made  a custom 2 wheel micro-mouse robot for maze solving using an ESP32 feather. The mouse contained an IMU, a TOF sensor, 2 IR sensors, and 2 motors controlled using a dual H bridge. I soldered and promptly debugged the PCB for test day. Additional functionality was added with a web sockets interface to access state and control information for the robot. 
 
 ### S.L.A.P. X-ray Spectroscopy Alignment
+**2022-2023**
 
 ![[Pasted image 20250804175354.png]]
 
@@ -36,8 +47,8 @@ An interesting bug arose when doing a sparse linspace on a comparatively dense s
 
 
 
-## Modal Analysis on 3D printed parts
-
+## Research: Modal Analysis on 3D printed parts
+**2022-2023**
 
 
 My undergrad research project was attempting to identify defects commonly found in 3D printed metal parts using modal analysis. Me and my partner started undergraduate research back up at Chico State with this project. We were told that we were the first paper in at least 20 years to come out of the Chico State ME department, and they couldn't give us the exact number because the records did not got further.
@@ -49,15 +60,17 @@ Our paper [Investigations on Natural Frequency Shifts of a Cantilever Beam With 
 
 
 ### Adjustable Coffee Grinder: Machine Design Final
+202
 For my ME340 final, our task was to design, and build a hand operated coffee grinder using a burr grinder set. I machined the components using 3 axis CNC and manual milling, and welded the frame using TIG. Fun fact, the project was in a backpack and stolen from my car so I had to re-machine and re-weld the whole assembly. Luckily I worked out the tool paths on the first run.
 
 ![[Pasted image 20250804151859.png]]
-
+CNC machined aluminum body and gear box, manual machined steel base, PLA printed accessories with TIG frame and handle with walnut inlay.
 ![[Pasted image 20250804151907.png]]
 ## Industry
 
 ### Zomes
 #### 5 Axis Contractor
+**2021-2021**
 ![[Pasted image 20250804152037.png]]
 
 Over the Summer of 2021 I worked as a 5 axis machining contractor at Zomes in Petaluma California. The following photos are parts I machines using a 5 axis Motionmaster CNC I got up and running.
@@ -74,9 +87,13 @@ Over the Summer of 2021 I worked as a 5 axis machining contractor at Zomes in Pe
 
 ![[Pasted image 20250804151537.png]]
 ![[Pasted image 20250804151544.png]]
+Completed 5-axis mold.
+
 ![[Pasted image 20250804151557.png]]
+Silicone casting with completed concrete panel (keys for scale).
 ## AVL Looms
 #### Welding and CNC Intern
+**2020-2020**
 ![[Pasted image 20250804151550.png]]
 Over the Summer of 2020 I got a CNC and MIG welding internship at AVL Looms in Chico California. The following photos are parts I milled on the CNC, welded, or both.
 
@@ -96,12 +113,13 @@ Over the Summer of 2020 I got a CNC and MIG welding internship at AVL Looms in C
 Welding end caps on 20' members was a bit nerve wracking on the first part, but it became old hat.
 
 ## Chico State Baja
+**2019-2020**
 
 ![[Pasted image 20250804151643.png]]
 ![[Pasted image 20250804151651.png]]![[Pasted image 20250804151656.png]]
 
 ## Personal Projects
-
+**2020**
 ## Skate Board Stand
 ![[Pasted image 20250804151708.png]]![[Pasted image 20250804151711.png]]
 
@@ -109,10 +127,12 @@ Welding end caps on 20' members was a bit nerve wracking on the first part, but 
 ![[SkateBoardStandSkateboards.png.png]]
 
 ## Collapsible Guitar Stand
+**2021**
 ![[Pasted image 20250804151806.png]]![[Pasted image 20250804151813.png]]![[Pasted image 20250804151819.png]]
 ![[Pasted image 20250804151826.png]]![[Pasted image 20250804151833.png]]
 
 ## Stage Jewelry Box 
+**2022**
 
 ![[Pasted image 20250804151917.png]]
 
