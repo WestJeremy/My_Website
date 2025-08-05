@@ -20,7 +20,7 @@ On arriving at Cal Poly I assisted with the redesign, and manufacturing of a leg
 The planerizer redesign was a resounding success, with minimal backlash and deflection through the use of compression joints, and a thin wall aluminum rectangular tubing. The new design was machined and assembled in time for [John's masters thesis testing](https://digitalcommons.calpoly.edu/theses/2891/). 
 ![[planerizer.png]]
 ### Micro-Mouse
-2023-2023
+**2023-2023**
 For my ME507 robotics design class project, myself and my partner made  a custom 2 wheel micro-mouse robot for maze solving using an ESP32 feather. The mouse contained an IMU, a TOF sensor, 2 IR sensors, and 2 motors controlled using a dual H bridge. I soldered and promptly debugged the PCB for test day. Additional functionality was added with a web sockets interface to access state and control information for the robot. 
 
 ### S.L.A.P. X-ray Spectroscopy Alignment
@@ -60,7 +60,7 @@ Our paper [Investigations on Natural Frequency Shifts of a Cantilever Beam With 
 
 
 ### Adjustable Coffee Grinder: Machine Design Final
-202
+**2021-2021**
 For my ME340 final, our task was to design, and build a hand operated coffee grinder using a burr grinder set. I machined the components using 3 axis CNC and manual milling, and welded the frame using TIG. Fun fact, the project was in a backpack and stolen from my car so I had to re-machine and re-weld the whole assembly. Luckily I worked out the tool paths on the first run.
 
 ![[Pasted image 20250804151859.png]]
